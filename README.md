@@ -6,3 +6,8 @@ A Pong Game Made By Me
 I have just made a Pong Game
 
 All the code explanation are in the code.
+I used pygame-ce that is more developed version of original pygame.
+
+Also While Doenloading dont forgetto download the whole file because icon needed unless you will get an error.
+
+I will update it because it isn't the full version. And also an Exe update will come,too.
